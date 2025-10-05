@@ -1,0 +1,12 @@
+[build]
+  publish = "public"
+  command = ""
+
+[dev]
+  port = 8888
+
+[[redirects]]
+  from = "/api/*"
+  to = "https://your-backend-render-url.onrender.com/:splat"
+  status = 200
+  force = true
