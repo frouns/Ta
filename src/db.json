@@ -1,0 +1,20 @@
+{
+  "notes": {
+    "7e708230-3941-41e3-8fd9-5b675ea2785f": {
+      "id": "7e708230-3941-41e3-8fd9-5b675ea2785f",
+      "title": "Project Kickoff",
+      "content": "# Meeting\n\n**Attendees:**\n\n**Agenda:**\n\n**Notes:**",
+      "createdAt": "2025-10-05T10:22:30.561Z",
+      "updatedAt": "2025-10-05T10:22:30.561Z",
+      "links": [],
+      "backlinks": []
+    }
+  },
+  "templates": {
+    "3f9e5de9-9a85-4020-bb01-598a3ad688ac": {
+      "id": "3f9e5de9-9a85-4020-bb01-598a3ad688ac",
+      "title": "Meeting Notes",
+      "content": "# Meeting\n\n**Attendees:**\n\n**Agenda:**\n\n**Notes:**"
+    }
+  }
+}
